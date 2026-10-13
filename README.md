@@ -20,6 +20,12 @@
 
 ---
 
+## 🖼️ VISUAL MATRIX ASSET
+
+![Youlean Loudness Analysis](NOK_FRTK_CLINIC_2026.jpg)
+
+---
+
 ## ⚙️ HARDWARE MATRIX DIAGNOSTICS
 
 ```text
